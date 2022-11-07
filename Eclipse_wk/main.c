@@ -3,7 +3,7 @@
  *
  *  Created on: 11 Oct 2022
  *      Author: Omar Elsherif
- *      FaceBook name : Omar Elsherif
+ *     
  */
 
 #include"lcd.h"
